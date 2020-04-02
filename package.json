@@ -1,0 +1,17 @@
+{
+  "name": "pollingapi",
+  "version": "1.0.0",
+  "description": "pollingSystemAPI",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "sumitCoder",
+  "license": "ISC"
+}
