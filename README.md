@@ -65,6 +65,7 @@ How to use--
  
  
  6.  To delete a option
+ 
      ->request(get request)
        http://localhost:8000/options/:id/delete
        
